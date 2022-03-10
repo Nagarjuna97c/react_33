@@ -1,0 +1,37 @@
+.main-container {
+  width: 80vw;
+  max-width: 1000px;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+
+.heading {
+  font-family: 'Lobster';
+  font-size: 48px;
+}
+
+.languages-list {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+.repos-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.failure-image {
+  height: 400px;
+}
+
+.failure-heading {
+  margin-top: 30px;
+  color: #0f172a;
+  font-size: 55px;
+}

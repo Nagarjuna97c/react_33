@@ -1,0 +1,19 @@
+.selected-item {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 100px;
+}
+
+.button {
+  border: none;
+  outline: none;
+  background: none;
+  color: #0f172a;
+  padding: 3px 13px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.selected-btn {
+  color: #0284c7;
+}

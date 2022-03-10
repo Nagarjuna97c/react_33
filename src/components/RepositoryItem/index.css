@@ -1,0 +1,38 @@
+.repo-card {
+  background-color: #f8f8ff;
+  width: 300px;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.repo-image {
+  height: 120px;
+  width: 120px;
+  align-self: center;
+}
+
+.repo-heading {
+  font-size: 30px;
+  color: #e73959;
+  text-align: center;
+}
+
+.item-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-left: 40px;
+}
+
+.repo-para {
+  font-size: 20px;
+  color: #1e293b;
+}
+
+.icon {
+  height: 20px;
+}
